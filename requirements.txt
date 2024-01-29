@@ -1,4 +1,4 @@
-aiogram==2.11.2
+aiogram==3.40
 aiohttp==3.7.3
 aniso8601==8.0.0
 APScheduler==3.6.3
