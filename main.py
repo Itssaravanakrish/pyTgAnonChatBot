@@ -10,7 +10,7 @@ from buttons import keyboard
 logging.basicConfig(level=logging.INFO)
 
 token = ''
-bot = Bot(token=token)
+bot = Bot(token='6318256885:AAGgylgIY6zZXlegJfFdJO5QJOogSFhQAxs')
 dp = Dispatcher(bot)
 db = SQLite('database.db')
 
